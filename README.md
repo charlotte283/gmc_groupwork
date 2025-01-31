@@ -13,6 +13,6 @@ The main findings from the analysis of the adult.csv data file were as follows;
 - The average(hrs/wk)of individuals with a capital gain>0 is 44.01622419
 - The average of education.num for males is higher than for female by a margin 0f 0.06
 - The most frequent Native.Country entry is United States with a count of 29,153
-- A visual on the number of individuals in each work class ![Barchart showing the number of idividuals in each workclass](https://github.com/charlotte283/your-repo/blob/main/assets/images/)
+- A visual on the number of individuals in each work class ![Barchart showing the number of idividuals in each workclass](https://github.com/charlotte283/gmc_groupwork/blob/main/assets/images/image.png)
 
 ### 4. Important Links
